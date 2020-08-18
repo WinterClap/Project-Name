@@ -1,0 +1,6 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; /*hacer que el width y el height de cada elemento CONTENGA el padding y el border*/
+	font-family: 'Acme', sans-serif;
+}
